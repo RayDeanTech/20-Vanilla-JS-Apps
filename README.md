@@ -1,2 +1,30 @@
-# 20-Vanilla-JS-Apps
- Brad Traversy's 20 Web Projects with Vanilla JavaScript
+# Provider
+
+[Traversy Media](https://www.traversymedia.com/)
+
+# Description
+
+### Course Description
+
+>This is a fun, practical & project based course for all skill levels. The projects in this course are designed to get you building things using HTML5, CSS &  JavaScript with no frameworks or libraries. Every project is built from scratch and has some kind of dynamic functionality from small games to an expense tracker to a breathing relax app.
+
+### What you'll learn
+
+>* Build 20 Frontend Projects From Scratch
+>* Modern JavaScript (ES6+) - Arrows, Fetch, Promises, etc.
+>* Animations With CSS & JavaScript
+>* HTML5 Canvas, Speech API, Audio & Video
+>* No JS or CSS Frameworks
+>* DOM Manipulation & Events
+>* Fetch & JSON With 3rd Party API's
+>* Beginner Friendly
+
+# Course Link
+
+[Vanilla JS Practical Course](https://www.traversymedia.com/20-Vanilla-JavaScript-Projects)
+
+# Index
+GitHub Code | Live Demo |
+| --- | --- |
+[02_Form_Validator](02_Form_Validator/) | https://demos.raydean.tech/20-Vanilla-JS-Apps/02_Form_Validator |
+[03_Movie_Seat_Booking](03_Movie_Seat_Booking/) | https://demos.raydean.tech/20-Vanilla-JS-Apps/03_Movie_Seat_Booking |
