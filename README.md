@@ -28,3 +28,4 @@ GitHub Code | Live Demo |
 | --- | --- |
 [02_Form_Validator](02_Form_Validator/) | https://demos.raydean.tech/20-Vanilla-JS-Apps/02_Form_Validator |
 [03_Movie_Seat_Booking](03_Movie_Seat_Booking/) | https://demos.raydean.tech/20-Vanilla-JS-Apps/03_Movie_Seat_Booking |
+[04_Custom_Video_Player](04_Custom_Video_Player/) | https://demos.raydean.tech/20-Vanilla-JS-Apps/04_Custom_Video_Player |
