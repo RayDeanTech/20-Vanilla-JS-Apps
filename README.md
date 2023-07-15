@@ -31,3 +31,4 @@ GitHub Code | Live Demo |
 [04_Custom_Video_Player](04_Custom_Video_Player/) | https://demos.raydean.tech/20-Vanilla-JS-Apps/04_Custom_Video_Player |
 [05_Exchange_Rate_Calc](05_Exchange_Rate_Calc/) | https://demos.raydean.tech/20-Vanilla-JS-Apps/05_Exchange_Rate_Calc |
 [06_DOM_Array_Methods](06_DOM_Array_Methods/) | https://demos.raydean.tech/20-Vanilla-JS-Apps/06_DOM_Array_Methods |
+[07_Menu_Slider_Modal](07_Menu_Slider_Modal/) | https://demos.raydean.tech/20-Vanilla-JS-Apps/07_Menu_Slider_Modal |
