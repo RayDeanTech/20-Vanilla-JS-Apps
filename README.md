@@ -33,3 +33,4 @@ GitHub Code | Live Demo |
 [06_DOM_Array_Methods](06_DOM_Array_Methods/) | https://demos.raydean.tech/20-Vanilla-JS-Apps/06_DOM_Array_Methods |
 [07_Menu_Slider_Modal](07_Menu_Slider_Modal/) | https://demos.raydean.tech/20-Vanilla-JS-Apps/07_Menu_Slider_Modal |
 [08_Hangman_Game](08_Hangman_Game/) | https://demos.raydean.tech/20-Vanilla-JS-Apps/08_Hangman_Game |
+[09_Meal_Finder](09_Meal_Finder/) | https://demos.raydean.tech/20-Vanilla-JS-Apps/09_Meal_Finder |
