@@ -35,3 +35,4 @@ GitHub Code | Live Demo |
 [08_Hangman_Game](08_Hangman_Game/) | https://demos.raydean.tech/20-Vanilla-JS-Apps/08_Hangman_Game |
 [09_Meal_Finder](09_Meal_Finder/) | https://demos.raydean.tech/20-Vanilla-JS-Apps/09_Meal_Finder |
 [10_Expense_Tracker](10_Expense_Tracker/) | https://demos.raydean.tech/20-Vanilla-JS-Apps/10_Expense_Tracker |
+[11_Music_Player](11_Music_Player/) | https://demos.raydean.tech/20-Vanilla-JS-Apps/11_Music_Player |
