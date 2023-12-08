@@ -37,3 +37,4 @@ GitHub Code | Live Demo |
 [10_Expense_Tracker](10_Expense_Tracker/) | https://demos.raydean.tech/20-Vanilla-JS-Apps/10_Expense_Tracker |
 [11_Music_Player](11_Music_Player/) | https://demos.raydean.tech/20-Vanilla-JS-Apps/11_Music_Player |
 [12_Infinite_Scrolling](12_Infinite_Scrolling/) | https://demos.raydean.tech/20-Vanilla-JS-Apps/12_Infinite_Scrolling |
+[13_Typing_Game](13_Typing_Game/) | https://demos.raydean.tech/20-Vanilla-JS-Apps/13_Typing_Game |
